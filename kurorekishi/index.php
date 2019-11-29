@@ -1,5 +1,5 @@
 <?php
-//これはgithub用に変更したコメント
+//これはgithub用に変更したコメント。テストブランチ用
 
 ini_set('log_errors', 'on');
 ini_set('error_log', 'php.log');
